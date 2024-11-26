@@ -1,9 +1,7 @@
 # Uncouth-Robots-That-Leverage-Profanity
 Video stimuli, additional figure, and supplementary statistical and qualitative analysis results as further explained in the under-review RA-L submission: Oh F**k! How do People Feel about Robots that Leverage Profanity?
 
-**Video Stimuli Folder:** Includes all nine videos (~9s each) described in the paper.
-
-For these videos, the naming convention is "behavior_condition.mp4"
+**Video Stimuli Folder:** Includes all nine videos (~9s each) described in the paper. For these videos, the naming convention is "behavior_condition.mp4"
 
 **In_Person_Figure:** This image shows the robot setup for distributing gift bags during the In-Person Pilot Deployment.
 
